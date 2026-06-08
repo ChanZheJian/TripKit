@@ -1,4 +1,4 @@
-# Roam — AI Travel Planner
+# TripKit — AI Travel Planner
 
 A full-stack travel planner powered by Claude. Enter your destination, preferences,
 and interests — get a specific, day-by-day itinerary with real restaurant names,

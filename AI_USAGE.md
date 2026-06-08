@@ -1,0 +1,1 @@
+Most of the code generation was completed with the assistance of AI. While the AI correctly understood the required functionality and generated the overall structure, the API integration contained issues that were identified during testing. I manually debugged and fixed these issues to ensure the application worked as intended.
